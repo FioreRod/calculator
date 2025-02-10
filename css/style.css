@@ -5,9 +5,15 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0;
+    background-image: url(https://i.pinimg.com/736x/e2/f9/9c/e2f99cead70db7be1cf0677ddcef8377.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 #calculator{
+    height: 410px;
     max-width: 360px;
     border-radius: 10px;
     padding: 20px;
